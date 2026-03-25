@@ -1,0 +1,54 @@
+
+    
+    body
+    {
+        background-image: url(backslide.webp);
+        height: fit-content;
+    }
+    h1{
+        color: brown;
+       
+        display: inline-block;
+    }
+    ul{
+        color: grey;
+        display: inline;
+        margin-left: 60%;
+    }
+    li{
+        display: inline;
+        font-size: larger;
+
+    }
+    li:hover
+    {
+    color: aquamarine; 
+    cursor: pointer;
+        
+    }
+    P{
+        color: red;
+        font-size: 30PX;
+
+    }
+    button
+    {
+         color: aqua; 
+         background-color: brown; 
+        font-size:larger; 
+        display: inline;
+
+        
+    }
+    hr
+    {
+        color: orange;
+        size: 3px;
+    }
+   nav 
+   {
+background-color:rgb(247, 162, 5);
+
+padding-left: 20px;
+border-radius: 30px;
+}
