@@ -1,7 +1,7 @@
     body
     {
         background-image: url(backslide.webp);
-        height: fit-content;
+      background-size: cover;
     }
     h1{
         color: brown;
@@ -24,6 +24,7 @@
     P{
         color: red;
         font-size: 30PX;
+    
     }
     button
     {
@@ -32,8 +33,7 @@
         font-size:larger; 
         display: inline;
 
-        
-    }
+}
    
    nav 
    {
